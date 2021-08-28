@@ -20,9 +20,9 @@ android {
 }
 
 dependencies {
-    implementation('androidx.lifecycle:lifecycle-common:2.0.0')
+    implementation('androidx.lifecycle:lifecycle-common:2.3.1')
     implementation('io.reactivex.rxjava2:rxjava:2.2.17')
     implementation('io.reactivex.rxjava2:rxandroid:2.1.1')
-    implementation 'com.github.Z-P-J:RxLife:1.0.0'
+    implementation 'com.github.Z-P-J:RxLife-AndroidX:1.0.0'
 }
 
