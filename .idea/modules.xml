@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RxBus-AndroidX.iml" filepath="$PROJECT_DIR$/.idea/modules/RxBus-AndroidX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RxBus-AndroidX.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RxBus-AndroidX.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxbus/RxBus-AndroidX.rxbus.iml" filepath="$PROJECT_DIR$/.idea/modules/rxbus/RxBus-AndroidX.rxbus.iml" />
+    </modules>
+  </component>
+</project>
